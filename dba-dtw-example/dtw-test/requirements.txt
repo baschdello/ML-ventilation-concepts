@@ -1,0 +1,6 @@
+argparse>=1.4.0
+numpy>=1.23.2
+matplotlib>=3.5.3
+tslearn>=0.5.2
+dtw>=1.4.0
+h5py>=3.7.0
